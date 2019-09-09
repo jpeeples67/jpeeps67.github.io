@@ -38,6 +38,6 @@ My current topic is on developing novel deep learning techniques for texture ana
 
 ###### Magna Cum Laude
 
-### Programming Languages
+<!-- ### Programming Languages
 * MATLAB
-* Python
+* Python -->
