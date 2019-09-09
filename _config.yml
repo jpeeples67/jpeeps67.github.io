@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Joshua Peeples Home" #<i class="fas fa-home"></i> 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joshua Peeples"
