@@ -13,7 +13,7 @@ Hi! My name is Joshua Peeples (feel free to call me Josh) and I am a PhD student
 [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/) at the
 University of Florida in the Department of Electrical and Computer Engineering, working with
 [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/people/faculty/).
-My current topic is on developing novel deep learning techniques for texture analysis. 
+ 
 
 
 ## Education
