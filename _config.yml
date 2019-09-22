@@ -65,7 +65,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : "http://jpeeps67.github.io" # blank (default) uses feed.xml
+  path                   : "https://www.joshpeeples.com" # blank (default) uses feed.xml
 search                   : false #false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
