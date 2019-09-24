@@ -7,6 +7,7 @@ layout: single
 author_profile: true
 sitemap: true
 modified: 2019-09-20
+order: 1
 ---
 Hi! My name is Joshua Peeples (feel free to call me Josh). I am from Alabaster, Alabama and I received my B.S. in Electrical Engineering with a minor in Mathematics from the University of Alabama at Birmingham (UAB). After my graduation from UAB, I decided to pursue a Ph.D. in Machine Learning at the
 University of Florida (UF) in the Department of Electrical and Computer Engineering (ECE). I am currently working with
