@@ -19,7 +19,7 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ### Seafloor Segmentation for Office of Naval Research (ONR)
 
-### Fractal Analysis of Roots
+<!-- ### Fractal Analysis of Roots -->
 
 ### Bias in Machine Learning
 
