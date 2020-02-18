@@ -6,16 +6,17 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2019-09-08
+modified: 2020-02-17
 ---  
 
 
 ## Publications
 
 ### Conference Papers
-1.	**J.Peeples**, M. Cook, D. Suen, A. Zare, and J. Keller, "Comparison of Possibilistic Fuzzy Local Information C-Means and Possiblisitic K-Nearest Neighbors for Synthetic Aperture Sonar Segmentation " in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11012/110120T/Comparison-of-possibilistic-fuzzy-local-information-C-means-and-possibilistic/10.1117/12.2519484.short?SSO=1))
-2.	A. Starke, J. McNair, R. Trevizan, A. Bretas, **J. Peeples**, and A. Zare, “Toward Resilient Smart Grid Communications using Distributed SDN with ML-Based Anomaly Detection” in 16th International Conference on Wired & Wireless Internet Communications, 2018. ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-02931-9_7))
-3.	**J. Peeples**, D. Suen, A. Zare, and J. Keller, "Possibilistic fuzzy local information C-means with automated feature selection for seafloor segmentation" in Proc. SPIE 10628, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIII, 2018. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10628/2305178/Possibilistic-fuzzy-local-information-C-means-with-automated-feature-selection/10.1117/12.2305178.short))
+1.	S.Walker, **J.Peeples**, A. Zare, J. Dale, and J. Keller, "Fine-tuning Deep Learning Models for Seafloor Classification in Synthetic Aperture Sonar Imagery" in Proc. SPIE 11418, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXV, 2020.(Accepted)
+2.	**J.Peeples**, M. Cook, D. Suen, A. Zare, and J. Keller, "Comparison of Possibilistic Fuzzy Local Information C-Means and Possiblisitic K-Nearest Neighbors for Synthetic Aperture Sonar Segmentation " in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV, 2019. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11012/110120T/Comparison-of-possibilistic-fuzzy-local-information-C-means-and-possibilistic/10.1117/12.2519484.short?SSO=1))
+3.	A. Starke, J. McNair, R. Trevizan, A. Bretas, **J. Peeples**, and A. Zare, “Toward Resilient Smart Grid Communications using Distributed SDN with ML-Based Anomaly Detection” in 16th International Conference on Wired & Wireless Internet Communications, 2018. ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-02931-9_7))
+4.	**J. Peeples**, D. Suen, A. Zare, and J. Keller, "Possibilistic fuzzy local information C-means with automated feature selection for seafloor segmentation" in Proc. SPIE 10628, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIII, 2018. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10628/2305178/Possibilistic-fuzzy-local-information-C-means-with-automated-feature-selection/10.1117/12.2305178.short))
 
 ### Journal Papers
 (In Progress)
