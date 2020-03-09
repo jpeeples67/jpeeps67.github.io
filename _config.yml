@@ -120,7 +120,7 @@ author:
       url: mailto:jpeeples@ufl.edu
     - label: "Google Scholar"
       icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?hl=en&user=Lksgi_8AAAAJ"
+      url: "https://scholar.google.com/citations?hl=en&user=uORqQLQAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpeeps67"
@@ -139,7 +139,7 @@ footer:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?hl=en&user=Lksgi_8AAAAJ"
+      url: "https://scholar.google.com/citations?hl=en&user=uORqQLQAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpeeps67"
