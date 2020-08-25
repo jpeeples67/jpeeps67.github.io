@@ -6,7 +6,7 @@ excerpt: "Connect with Joshua Peeples"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2019-09-08
+modified: 2020-08-25
 ---  
 
 Let's connect! Below is my contact information:
@@ -15,7 +15,7 @@ Let's connect! Below is my contact information:
 Joshua Peeples<br/>
 Herbert Wertheim College of Engineering<br/>
 Department of Electrical and Computer Engineering<br/>
-487B New Engineering Building<br/>
+413 New Engineering Building<br/>
 PO Box 116130<br/>
 Gainesville, FL 32611<br/>
 
