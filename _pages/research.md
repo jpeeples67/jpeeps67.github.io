@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Research Projects"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2020-02-19
+modified: 2020-08-25
 ---
 ## Research Interests
  Machine Learning, Deep Learning, Pattern Recognition, Computational Intelligence, Computer Vision, Image Processing
@@ -19,7 +19,7 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ### Seafloor Segmentation for Office of Naval Research (ONR)
 
-### Fractal Analysis of Root Architectures
+### Sesame Root Architecture Analysis
 
 ### Bias in Machine Learning
 
