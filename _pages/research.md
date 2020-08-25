@@ -21,7 +21,7 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ### Sesame Root Architecture Analysis
 
-### Histology Image Segmentation
+### Histological Image Segmentation
 
 ### Bias in Machine Learning
 
