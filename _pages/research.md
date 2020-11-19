@@ -23,5 +23,7 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ### Histological Image Segmentation
 
+## Past Research Projects
+
 ### Bias in Machine Learning
 
