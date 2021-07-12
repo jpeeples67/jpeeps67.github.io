@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2021-03-28
+modified: 2021-07-12
 ---  
 
 
@@ -22,7 +22,12 @@ modified: 2021-03-28
 ### Journal Papers
 (In Progress)
 
+### In Review
+2. **Peeples, J.**, Walker, S., McCurley, C., Zare, A., Keller, J. 2021. ``Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification." ([pdf](https://arxiv.org/pdf/2012.15764.pdf))
+1. **Peeples, J.**, Xu, W., Zare, A. 2020. ``Histogram Layers for Texture Analysis." ([pdf](https://arxiv.org/pdf/2001.00215.pdf))
+
 ## Oral Presentations
+7. Walker, S., **Peeples, J.**, Dale, J., Zare, A., Keller, J. 2021. Explainable Systematic Analysis for Synthetic Aperture Sonar Imagery. IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, Virtual.
 6. **Peeples, J.**, Jameson, J., Kotta, N., Stoppel, W., Zare, A. 2021. Jointly Optimized Spatial Histogram U-NET Architecture (JOSHUA) for Adipose Tissue Identification in Histological Images of Lyophilized Silk Sponge Implants. University of Florida Biomaterials Day, Gainesville, FL.
 5. Gloaguen, R.M., **Peeples, J.**, Xu, W., Brym, Z.T., Rowland, D.L., Zare, A., Chun, H.C. 2020. New Approaches to Characterize the Root System Architecture Response of a Drought Tolerant Crop to Varying Soil Moisture Levels. ASA-CSSA-SSSA Annual Meeting, Nov. 9-13, C02 Crop Physiology and Metabolism Section, C-2 Graduate Student Oral, Virtual.
 4. **Peeples, J.**, Cook, M., Suen, D., Zare, A., Keller, J. 2019. Comparison of Possibilistic Fuzzy Local Information C-Means and Possibilistic K-Nearest Neighbors for Synthetic Aperture Sonar Image Segmentation. Society for Optics and Photonics Defense + Commercial Sensing, Baltimore, MD.
