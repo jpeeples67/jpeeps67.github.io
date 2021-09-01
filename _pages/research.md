@@ -19,11 +19,11 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ### Seafloor Segmentation for Office of Naval Research (ONR)
 
-### Sesame Root Architecture Analysis
-
 ### Histological Image Segmentation
 
 ## Past Research Projects
+
+### Sesame Root Architecture Analysis
 
 ### Bias in Machine Learning
 
