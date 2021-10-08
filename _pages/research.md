@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Research Projects"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2020-08-25
+modified: 2021-08-31
 ---
 ## Research Interests
  Machine Learning, Deep Learning, Pattern Recognition, Computational Intelligence, Computer Vision, Image Processing
