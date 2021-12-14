@@ -13,7 +13,7 @@ modified: 2021-10-07
 ## Publications
 
 ### Conference Papers
-6. **Peeples**, J., McCurley, C., Walker, S., Stewart, D., Zare, A. 2022. ``Learnable Adaptive Cosine Estimator (LACE) for Image Classification," in IEEE/CVF Winter Conference on Applications of Computer Vision. In Press.
+6. **Peeples**, J., McCurley, C., Walker, S., Stewart, D., Zare, A. 2022. "Learnable Adaptive Cosine Estimator (LACE) for Image Classification," in IEEE/CVF Winter Conference on Applications of Computer Vision. In Press.
 5. Prioleau, D., Alikhademi, A., Roberts, A., **Peeples, J.**, Zare, A., Gilbert, J.E. 2021. "Use of Divisive Clustering for Reducing Bias in Training Data," in  International Conference on Machine Learning and Data Mining in Pattern Recognition. ([pdf](http://www.ibai-publishing.org/html/proceedings_2021/pdf/proceedings_book_MLDM_2021.pdf))
 4. Walker, S., **Peeples, J.**, Dale, J., Zare, A., Keller, J. 2021. "Explainable Systematic Analysis for Synthetic Aperture Sonar Imagery," in IEEE International Geoscience and Remote Sensing Symposium. ([pdf](https://arxiv.org/abs/2101.03134))
 3. **Peeples, J.**, Cook, M., Suen, D., Zare, A., Keller, J. 2019. "Comparison of Possibilistic Fuzzy Local Information C-Means and Possiblisitic K-Nearest Neighbors for Synthetic Aperture Sonar Segmentation," in Proc. SPIE 11012, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIV. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11012/110120T/Comparison-of-possibilistic-fuzzy-local-information-C-means-and-possibilistic/10.1117/12.2519484.short?SSO=1))
@@ -21,13 +21,13 @@ modified: 2021-10-07
 1. Peeples, J., Suen, D., Zare, A., Keller, J. 2018. "Possibilistic Fuzzy Local Information C-means with Automated Feature selection for Seafloor Segmentation," in Proc. SPIE 10628, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIII. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10628/2305178/Possibilistic-fuzzy-local-information-C-means-with-automated-feature-selection/10.1117/12.2305178.short))
 
 ### Journal Papers
-(In Progress)
+2. **Peeples, J.**, Xu, W., Zare, A. 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://arxiv.org/pdf/2001.00215.pdf))
+1.  Gloaguen, R., Brym, Z., **Peeples, J.**, Xu, W., Hyen-Chung, C., Rowland, D. 2021. in Rhizosphere. "The Plasticity of Early Root Development in Sesamum indicum L. as Influenced by Genotype and Water Availability." ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S2452219821001531?via\%3Dihub))
 
 ### In Review
-4. **Peeples, J.**, Xu, W., Gloaguen, R., Rowland, D., Zare, A., Brym, Z. 2021. ``Spatial and Texture Analysis of Root System Architecture with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446v3))
-3.  Gloaguen, R., Brym, Z., **Peeples, J.**, Xu, W., Hyen-Chung, C., Rowland, D. 2021. ``The Plasticity of Early Root Development in Sesamum indicum L. as Influenced by Genotype and Water Availability."
-2. **Peeples, J.**, Walker, S., McCurley, C., Zare, A., Keller, J. 2021. ``Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification." ([pdf](https://arxiv.org/pdf/2012.15764.pdf))
-1. **Peeples, J.**, Xu, W., Zare, A. 2020. ``Histogram Layers for Texture Analysis." ([pdf](https://arxiv.org/pdf/2001.00215.pdf))
+3. **Peeples, J.**, Jameson, J., Kotta, N., Grasman, J., Stoppel, W., Zare, A. 2021. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation."([pdf](https://www.biorxiv.org/content/10.1101/2021.11.22.469463))
+2. **Peeples, J.**, Xu, W., Gloaguen, R., Rowland, D., Zare, A., Brym, Z. 2021. "Spatial and Texture Analysis of Root System Architecture with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
+1. **Peeples, J.**, Walker, S., McCurley, C., Zare, A., Keller, J. 2021. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification." ([pdf](https://arxiv.org/pdf/2012.15764.pdf))
 
 ## Oral Presentations
 8. Prioleau, D., Alikhademi, A., Roberts, A., **Peeples, J.**, Zare, A., Gilbert, J.E. 2021. Use of Divisive Clustering for Reducing Bias in Training Data. International Conference on Machine Learning and Data Mining in Pattern Recognition, New York City, New York, Virtual.}
