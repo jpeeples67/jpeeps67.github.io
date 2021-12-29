@@ -8,5 +8,7 @@ main:
     url: /present_pubs/
   - title: "Curriculum Vitae"
     url: /documents/Joshua Peeples CV.pdf
+  - title: "Blog"
+    url: /blog/
   - title: "Connect"
     url: /connect/
