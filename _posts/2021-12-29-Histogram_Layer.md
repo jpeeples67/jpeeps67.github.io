@@ -2,7 +2,7 @@
 layout: single
 title: "Histogram Layers for Texture Analysis"
 date: 2021-12-29
-tags: [deep learning, histograms, image classification, texture analysis]
+tags: [[deep learning](https://www.joshpeeples.com/Histogram_Layer/), histograms, image classification, texture analysis]
 ---
 
 ## Introduction: What is Texture?
