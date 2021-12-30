@@ -2,7 +2,7 @@
 layout: single
 title: "Histogram Layers for Texture Analysis"
 date: 2021-12-29
-tags: [[deep learning](https://www.joshpeeples.com/Histogram_Layer/), histograms, image classification, texture analysis]
+tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
 ## Introduction: What is Texture?
@@ -19,7 +19,7 @@ The proposed solution is a **local** histogram layer. Instead of computing globa
 ![Local_Hist](/images/Stand_Hist.gif)
 <br/> The standard histogram operation is not differentiable; however, a smooth approximation (*i.e.*, radial basis function) can be used instead as shown below:
 ![Local_RBF](/images/RBF_Hist.gif)
-<br/> Another advantage of the proposed method is that the histogram layer is easily implemented using pre-exisiting layers! Any deep learning framework (*e.g.*, Pytorch, TensorFlow) can be used to integerate the histogram layer into any framework.
+<br/> Another advantage of the proposed method is that the histogram layer is easily implemented using pre-exisiting layers! Any deep learning framework (*e.g.*, Pytorch, TensorFlow) can be used to integerate the histogram layer into deep learning models.
 ![Implementation](/images/Implementation.png)
 
 ## Applications of Histogram Layer
