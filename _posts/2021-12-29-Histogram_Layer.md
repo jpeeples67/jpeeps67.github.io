@@ -1,18 +1,17 @@
 ---
 layout: single
 title: "Histogram Layers for Texture Analysis"
-date: 2021-12-29
+date: 2021-12-30
 tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
-## Introduction: What is Texture?
-There are no agreed definitions in the computer vision literature. However, for texture, characterizing the spatial 
-distribution of intensity and/or feature values is important.
-
 ## Problem Statement: Shortcomings of Convolutional Neural Networks
-Convolutional neural networks have been vital for a variety of applications. Despite the innovations of CNN, these models are great at **structural** textures but not **statistical** textures. To illustrate this point, below is an example of different structural and statistical textures:
+Convolutional neural networks (CNN) have been vital for a variety of applications. Despite the innovations of CNN, these models are great at **structural** textures but not **statistical** textures. To illustrate this point, below is an example of different structural and statistical textures:
 ![Texture](/images/Textures.PNG)
-<br/>We can visually see the distinct differences between the different texture combinations. The structural textures are a checkboard, cross, and stripe while the statisistical textures are pixels sampled from multinomial, binomial and constant distribution. A CNN could easily distinguish the structural textures, but would struggle with the statistical texures. Convolution is simply a weighted average operator. In the example above, the mean values are approximately the same. In order to capture the statistical textures, a model will need to learn the full distribution. 
+<br/>We can visually see the distinct differences between the different texture combinations. The structural textures are a checkboard, cross, and stripe while the statisistical textures are pixels sampled from multinomial, binomial and constant distributions. A CNN could easily distinguish the structural textures, but would struggle with the statistical texures. 
+
+### Why would a CNN struggle with statistical textures?
+Structural texture approaches consist of defining a set of texture examples and an order of spatial positions for each exemplar [(Materka et al., 1998)](https://www.researchgate.net/profile/Andrzej-Materka/publication/249723259_Texture_Analysis_Methods_-_A_Review/links/02e7e51ef8d539a9da000000/Texture-Analysis-Methods-A-Review.pdf). Convolution is a weighted average operator that uses spatial information to learn local relationships between pixels. In the example above, the mean values are approximately the same. As a result, the CNN will struggle to capture a linear combination of pixels that learns the statistical information of the data.  In order to capture the statistical textures, instead of understanding the structure of each texture, the data can be represented through parameters that characterize the distributions and correlation between the intensity and/or feature values in an image [(Humeau-Heurtier, 2019)](https://ieeexplore.ieee.org/abstract/document/8600329).
 
 ## Method: Histogram Layer
 The proposed solution is a **local** histogram layer. Instead of computing global histograms as done previously, the proposed histogram layer directly computes the local, spatial distribution of features for texture analysis, and parameters for the layer are estimated during backpropagation. Histograms perform a counting operation for values that fall within a certain range. Below is an example where we are counting the number of 1s, 2s, and 3s in local windows of the image:
