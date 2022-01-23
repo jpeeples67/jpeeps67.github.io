@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Histogram Layers for Texture Analysis"
-date: 2021-12-30
+date: 2022-01-23
 tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
@@ -11,8 +11,8 @@ Convolutional neural networks (CNN) have been vital for a variety of application
 <br/>We can visually see the distinct differences between the different texture combinations. The structural textures are a checkboard, cross, and stripe while the statisistical textures are pixels sampled from multinomial, binomial and constant distributions. A CNN could easily distinguish the structural textures, but would struggle with the statistical texures. 
 
 ### Why would a CNN struggle with statistical textures?
-Structural texture approaches consist of defining a set of texture examples and an order of spatial positions for each exemplar [(Materka et al., 1998)](https://www.researchgate.net/profile/Andrzej-Materka/publication/249723259_Texture_Analysis_Methods_-_A_Review/links/02e7e51ef8d539a9da000000/Texture-Analysis-Methods-A-Review.pdf). Convolution is a weighted sum operator that uses spatial information to learn local relationships between pixels. Given enough samples from each distribution, the mean values are approximately the same as shown:
-![Multinomial](/images/Multinomial.png)![Binomial](/images/Binomial.png)![Constant](/images/Constant.png)
+Structural texture approaches consist of defining a set of texture examples and an order of spatial positions for each exemplar [(Materka et al., 1998)](https://www.researchgate.net/profile/Andrzej-Materka/publication/249723259_Texture_Analysis_Methods_-_A_Review/links/02e7e51ef8d539a9da000000/Texture-Analysis-Methods-A-Review.pdf). Convolution is a weighted sum operator that uses spatial information to learn local relationships between pixels. Given enough samples from each distribution, the mean values are approximately the same and outputs from a convolution will be similar as shown:
+![Example convolution outputs](/images/Sampling.gif)
 <!-- <p float="center">
   <img src="/images/Multinomial.png" width="50%" />
   <img src="/images/Binomial.png" width="50%" /> 
