@@ -13,11 +13,7 @@ Convolutional neural networks (CNN) have been vital for a variety of application
 ### Why would a CNN struggle with statistical textures?
 Structural texture approaches consist of defining a set of texture examples and an order of spatial positions for each exemplar [(Materka et al., 1998)](https://www.researchgate.net/profile/Andrzej-Materka/publication/249723259_Texture_Analysis_Methods_-_A_Review/links/02e7e51ef8d539a9da000000/Texture-Analysis-Methods-A-Review.pdf). Convolution is a weighted sum operator that uses spatial information to learn local relationships between pixels. Given enough samples from each distribution, the mean values are approximately the same and outputs from a convolution will be similar as shown:
 ![Example convolution outputs](/images/Sampling.gif)
-<p float="center">
-  <img src="/images/Multinomial.png" width="33%" />
-  <img src="/images/Binomial.png" width="33%" /> 
-  <img src="/images/Constant.png" width="33%" />
-</p>
+![Distribution Images](/images/Distributions.JPG)
 <br/>The average operation is a special case of convolution where the all of the weights are equal to 1/number of data points. As a result, the CNN will struggle to capture a linear combination of pixels that learns the statistical information of the data (*i.e.*, cannot learn weights to discriminate statistical exemplars). Here is an example where if a 3 by 3 convolution is used, the model can easily learn weights to tell the cross and checkboard apart. However, if we sample from a different distribution and retain the same shape, a convolution operation cannot learn weights to distinguish this change as the convolution is unable to account for individual pixel intensity changes.
 ![CNN_Failure](/images/CNN_Failure.PNG) 
 
