@@ -51,48 +51,70 @@ Volume = {},<br>
 Year = {2021},<br>
 number={}<br>
 pages={1-1}<br>
-doi={10.1109/TAI.2021.3135804}<br>
-}
+doi={10.1109/TAI.2021.3135804}}
 
+<style>
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
 
-<!-- <div class="section">
+  .column-50 {
+      float: left;
+      width: 50%;
+  }
+  .row-50:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  .floating-teaser {
+      float: left;
+      width: 30%;
+      text-align: center;
+      padding: 15px;
+  }
+    
+<div class="section">
     <h5>Links</h5>
-    <div class="container" style="width:95%"> -->
+    <div class="container" style="width:95%">
 
 <!-- ## Links -->
 <!-- Icon row -->
 <div class="section">
     <h5>Links</h5>
     <div class="container" style="width:95%">
-<!-- Icon row -->
-<div class="row">
-  <div class="two columns">
-    <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;" src="/images/arxiv.jpg"></a>
+  <!-- Icon row -->
+  <div class="row">
+    <div class="two columns">
+      <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;display: inline-block;" src="/images/arxiv.jpg"></a>
+    </div>
+    <div class="two columns">
+      <a href="https://github.com/GatorSense/Histogram_Layer"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;display: inline-block;" src="/images/code.png"></a>
+    </div>          
+    <div class="two columns">
+      <a href="https://ieeexplore.ieee.org/document/9652037"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;display: inline-block;" src="/images/ieee.jpg"></a>
+    </div>    
+    <div class="two columns">
+      <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;display: inline-block;" src="/images/logo.png"></a>
+    </div>   
   </div>
+  <!-- Link row -->
+  <div class="row">
+    <div class="two columns">                  
+      <a href="https://arxiv.org/abs/2001.00215">ArXiv Paper</a>
+    </div>
+                <div class="two columns">
+      <a href="https://github.com/GatorSense/Histogram_Layer">Code</a>
+    </div> 
   <div class="two columns">
-    <a href="https://github.com/GatorSense/Histogram_Layer"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/code.png"></a>
-  </div>          
+      <a href="https://ieeexplore.ieee.org/document/9652037">IEEE Paper</a>
+    </div> 
   <div class="two columns">
-    <a href="https://ieeexplore.ieee.org/document/9652037"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/ieee.jpg"></a>
-  </div>    
-  <div class="two columns">
-    <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;" src="/images/logo.png"></a>
-  </div>   
-</div>
-<!-- Link row -->
-<div class="row">
-  <div class="two columns">                  
-    <a href="https://arxiv.org/abs/2001.00215">ArXiv Paper</a>
-  </div>
-              <div class="two columns">
-    <a href="https://github.com/GatorSense/Histogram_Layer">Code</a>
-  </div> 
-<div class="two columns">
-    <a href="https://ieeexplore.ieee.org/document/9652037">IEEE Paper</a>
-  </div> 
-<div class="two columns">
-    <a href="https://faculty.eng.ufl.edu/machine-learning/">Lab</a>
-  </div> 
+      <a href="https://faculty.eng.ufl.edu/machine-learning/">Lab</a>
+    </div> 
 </div>
 <br>
 
