@@ -6,7 +6,7 @@ tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
 ## Problem Statement: Shortcomings of Convolutional Neural Networks
-Convolutional neural networks (CNNs) have shown tremendous ability for a variety of applications.  One reason for the success of CNNs are that they excel at representing and detecting **structural textures**. However, they are **not** as effective at statistical textures. To illustrate this point, below is an example of different structural and statistical textures:
+Convolutional neural networks (CNNs) have shown tremendous ability for a variety of applications.  One reason for the success of CNNs are that they excel at representing and detecting **structural textures**. However, they are **not** as effective at **statistical textures**. To illustrate this point, below is an example of different structural and statistical textures:
 ![Texture](/images/Textures.PNG)
 <br/>We can visually see the distinct differences between the different texture combinations. The structural textures are a checkboard, cross, and stripe. The statistical textures are shown through foreground pixels values sampled from multinomial, binomial, and constant distributions. A CNN could easily distinguish the structural textures, but would struggle with the statistical texures. 
 
