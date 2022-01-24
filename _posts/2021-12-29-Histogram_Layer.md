@@ -58,13 +58,13 @@ doi={10.1109/TAI.2021.3135804}}
 <!-- [![alt text](image link)](web link) -->
 [![ArXiv Paper][1]][2][![Github Repositor][3]][4][![IEEE Paper][5]][6][![Lab][7]][8]
 
-[1]: /images/arxiv_50.jpg
+[1]: /images/arxiv_25.jpg
 [2]: https://arxiv.org/abs/2001.00215
-[3]: /images/code_50.png
+[3]: /images/code_25.png
 [4]: https://github.com/GatorSense/Histogram_Layer
-[5]: /images/ieee.jpg
+[5]: /images/ieee_25.jpg
 [6]: https://ieeexplore.ieee.org/document/9652037
-[7]: /images/logo.png
+[7]: /images/logo_25.png
 [8]: https://faculty.eng.ufl.edu/machine-learning
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
