@@ -42,6 +42,7 @@ J. Peeples and W. Xu and A. Zare, "Histogram Layers for Texture Analysis,"
 in IEEE Transactions on Artificial Intelligence, DOI 10.1109/TAI.2021.3135804, 2021.
 
 **BibTex:**
+
 @Article{Peeples2021Histogram,
 Title = {Histogram Layers for Texture Analysis},
 Author = {Peeples, Joshua and Xu, Weihuang  and Zare, Alina},
@@ -54,37 +55,37 @@ doi={10.1109/TAI.2021.3135804}
 }
 
 
-<div class="section">
+<!-- <div class="section">
     <h5>Links</h5>
-    <div class="container" style="width:95%">
+    <div class="container" style="width:95%"> -->
 
 ## Links
 <!-- Icon row -->
 <div class="row">
   <div class="two columns">
     <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;" src="/images/arxiv.jpg"></a>
-  </div>
+  <!-- </div> -->
   <div class="two columns">
     <a href="https://github.com/GatorSense/Histogram_Layer"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/code.png"></a>
-  </div>          
+  <!-- </div>           -->
   <div class="two columns">
     <a href="https://ieeexplore.ieee.org/document/9652037"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/ieee.jpg"></a>
-  </div>    
+  <!-- </div>     -->
   <div class="two columns">
     <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;" src="/images/logo.png"></a>
-  </div>   
+  <!-- </div>    -->
 </div>
 <!-- Link row -->
 <div class="row">
   <div class="two columns">                  
     <a href="https://arxiv.org/abs/2001.00215">ArXiv Paper</a>
-  </div>
+  <!-- </div> -->
               <div class="two columns">
     <a href="https://github.com/GatorSense/Histogram_Layer">Code</a>
-  </div> 
+  <!-- </div>  -->
 <div class="two columns">
     <a href="https://ieeexplore.ieee.org/document/9652037">IEEE Paper</a>
-  </div> 
+  <!-- </div>  -->
 <div class="two columns">
     <a href="https://faculty.eng.ufl.edu/machine-learning/">Lab</a>
   </div> 
