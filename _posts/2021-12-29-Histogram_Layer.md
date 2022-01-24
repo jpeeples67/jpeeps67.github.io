@@ -62,9 +62,9 @@ doi={10.1109/TAI.2021.3135804}}
 [2]: https://arxiv.org/abs/2001.00215
 [3]: /images/code_25.png
 [4]: https://github.com/GatorSense/Histogram_Layer
-[5]: /images/ieee_25.jpg
+[5]: /images/ieee_50.jpg
 [6]: https://ieeexplore.ieee.org/document/9652037
-[7]: /images/logo_25.png
+[7]: /images/logo_50.png
 [8]: https://faculty.eng.ufl.edu/machine-learning
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
