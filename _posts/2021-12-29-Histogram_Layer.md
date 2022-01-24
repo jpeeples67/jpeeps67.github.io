@@ -34,14 +34,14 @@ There are several real-world applications for the histogram layer! Examples incl
 ## Check Out the Code and Paper!
 This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **IEEE Transactions on Artificial Intelligence**! Our [code](https://github.com/GatorSense/Histogram_Layer) and [paper](https://arxiv.org/abs/2001.00215) are available! 
 
-### Citation
+## Citation
 
-**Plain Text:**
+### Plain Text:
 
 J. Peeples and W. Xu and A. Zare, "Histogram Layers for Texture Analysis," 
 in IEEE Transactions on Artificial Intelligence, DOI 10.1109/TAI.2021.3135804, 2021.
 
-**BibTex:**
+### BibTex:
 
 @Article{Peeples2021Histogram,<br>
 Title = {Histogram Layers for Texture Analysis},<br>
@@ -53,41 +53,19 @@ number={}<br>
 pages={1-1}<br>
 doi={10.1109/TAI.2021.3135804}}
 
-<style>
-  img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-  }
 
-  .column-50 {
-      float: left;
-      width: 50%;
-  }
-  .row-50:after {
-      content: "";
-      display: table;
-      clear: both;
-  }
-
-  .floating-teaser {
-      float: left;
-      width: 30%;
-      text-align: center;
-      padding: 15px;
-  }
-    
-<div class="section">
-    <h5>Links</h5>
-    <div class="container" style="width:95%">
+## Links
+[![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)[![Github Repository](/images/code.png"Code")](https://github.com/GatorSense/Histogram_Layer)[![IEEE Paper](/images/code.png"IEEE Transactions on AI Paper")](https://ieeexplore.ieee.org/document/9652037)[![Lab](/images/logo.png"GatorSense Lab Website")](https://faculty.eng.ufl.edu/machine-learning)
 
 <!-- ## Links -->
+
+
 <!-- Icon row -->
-<div class="section">
+<!-- <!-- <!-- <!-- <div class="section">
     <h5>Links</h5>
     <div class="container" style="width:95%">
   <!-- Icon row -->
-  <div class="row">
+<!--   <div class="row">
     <div class="two columns">
       <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;display: inline-block;" src="/images/arxiv.jpg"></a>
     </div>
@@ -101,8 +79,8 @@ doi={10.1109/TAI.2021.3135804}}
       <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;display: inline-block;" src="/images/logo.png"></a>
     </div>   
   </div>
-  <!-- Link row -->
-  <div class="row">
+  <!-- Link row --> -->
+ <!--  <div class="row">
     <div class="two columns">                  
       <a href="https://arxiv.org/abs/2001.00215">ArXiv Paper</a>
     </div>
@@ -119,5 +97,5 @@ doi={10.1109/TAI.2021.3135804}}
 <br>
 
     </div>
-</div>
+</div> --> --> - -->-> -->
 
