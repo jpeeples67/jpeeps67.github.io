@@ -34,6 +34,26 @@ There are several real-world applications for the histogram layer! Examples incl
 ## Check Out the Code and Paper!
 This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **IEEE Transactions on Artificial Intelligence**! Our [code](https://github.com/GatorSense/Histogram_Layer) and [paper](https://arxiv.org/abs/2001.00215) are available! 
 
+### Citation
+```
+Plain Text:
+
+J. Peeples and W. Xu and A. Zare, "Histogram Layers for Texture Analysis," 
+in IEEE Transactions on Artificial Intelligence, DOI 10.1109/TAI.2021.3135804, 2021.
+
+BibTex:
+@Article{Peeples2021Histogram,
+Title = {Histogram Layers for Texture Analysis},
+Author = {Peeples, Joshua and Xu, Weihuang  and Zare, Alina},
+Journal = {IEEE Transactions on Artificial Intelligence},
+Volume = {},
+Year = {2021},
+number={}
+pages={1-1}
+doi={10.1109/TAI.2021.3135804}
+}
+```
+
 <!-- <div class="section">
     <h5>Links</h5>
     <div class="container" style="width:95%"> -->
