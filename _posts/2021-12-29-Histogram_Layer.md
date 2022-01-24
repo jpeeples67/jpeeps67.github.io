@@ -56,11 +56,11 @@ doi={10.1109/TAI.2021.3135804}}
 
 ## Links
 <!-- [![alt text](image link)](web link) -->
-[![ArXiv Paper][1]][2]{:height="36px" width="36px"}[![Github Repositor][3]][4]{:height="36px" width="36px"}[![IEEE Paper][5]][6]{:height="36px" width="36px"}[![Lab][7]][8]{:height="36px" width="36px"}
+[![ArXiv Paper][1]][2][![Github Repositor][3]][4][![IEEE Paper][5]][6][![Lab][7]][8]
 
-[1]: /images/arxiv.jpg
+[1]: /images/arxiv_50.jpg
 [2]: https://arxiv.org/abs/2001.00215
-[3]: /images/code.png
+[3]: /images/code_50.png
 [4]: https://github.com/GatorSense/Histogram_Layer
 [5]: /images/ieee.jpg
 [6]: https://ieeexplore.ieee.org/document/9652037
