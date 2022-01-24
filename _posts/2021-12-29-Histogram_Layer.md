@@ -35,13 +35,13 @@ There are several real-world applications for the histogram layer! Examples incl
 This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **IEEE Transactions on Artificial Intelligence**! Our [code](https://github.com/GatorSense/Histogram_Layer) and [paper](https://arxiv.org/abs/2001.00215) are available! 
 
 ### Citation
-```
-Plain Text:
+
+**Plain Text:**
 
 J. Peeples and W. Xu and A. Zare, "Histogram Layers for Texture Analysis," 
 in IEEE Transactions on Artificial Intelligence, DOI 10.1109/TAI.2021.3135804, 2021.
 
-BibTex:
+**BibTex:**
 @Article{Peeples2021Histogram,
 Title = {Histogram Layers for Texture Analysis},
 Author = {Peeples, Joshua and Xu, Weihuang  and Zare, Alina},
@@ -52,26 +52,26 @@ number={}
 pages={1-1}
 doi={10.1109/TAI.2021.3135804}
 }
-```
 
-<!-- <div class="section">
+
+<div class="section">
     <h5>Links</h5>
-    <div class="container" style="width:95%"> -->
+    <div class="container" style="width:95%">
 
 ## Links
 <!-- Icon row -->
 <div class="row">
   <div class="two columns">
-    <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;" src="./images/arxiv.jpg"></a>
+    <a href="https://arxiv.org/abs/2001.00215"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 108px;" src="/images/arxiv.jpg"></a>
   </div>
   <div class="two columns">
-    <a href="https://github.com/GatorSense/Histogram_Layer"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="./images/code.png"></a>
+    <a href="https://github.com/GatorSense/Histogram_Layer"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/code.png"></a>
   </div>          
   <div class="two columns">
-    <a href="https://ieeexplore.ieee.org/document/9652037"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="./images/ieee.jpg"></a>
+    <a href="https://ieeexplore.ieee.org/document/9652037"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 0px; width: 116px;" src="/images/ieee.jpg"></a>
   </div>    
   <div class="two columns">
-    <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;" src="./images/logo.png"></a>
+    <a href="https://faculty.eng.ufl.edu/machine-learning/"><img style="border: 1px solid #ddd; border-radius: 4px; padding: 2px; width: 170px;" src="/images/logo.png"></a>
   </div>   
 </div>
 <!-- Link row -->
@@ -90,6 +90,3 @@ doi={10.1109/TAI.2021.3135804}
   </div> 
 </div>
 <br>
-
-    </div>
-</div>
