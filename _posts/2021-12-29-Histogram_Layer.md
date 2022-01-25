@@ -17,7 +17,7 @@ Structural texture approaches consist of defining a set of texture examples and 
 <br/>A convolution is a weighted sum operator that uses spatial information to learn local relationships between pixels. Given enough samples from each distribution, the mean values are approximately the same and outputs from a convolution will be similar as shown:
 ![Example convolution outputs](/images/Sampling.gif)
 <br/>The average operation is a special case of convolution where the all of the weights are equal to 1/number of data points. As a result, the CNN will struggle to capture a linear combination of pixels that learns the statistical information of the data (*i.e.*, cannot easily learn weights to discriminate statistical exemplars). Here is an example where if a 3x3 convolution is used, the model can easily learn weights to tell the cross and checkboard apart. However, if we sample from a different distribution and retain the same shape, a convolution operation cannot learn weights to distinguish this change as the convolution is unable to account for individual pixel intensity changes.
-![CNN_Failure](/images/CNN_Failure.jpg) 
+![CNN_Failure](/images/CNN_Failure_v2.jpg) 
 
 <br/>As a result, CNNs cannot model the distribution of values in regions, a factor that is essential for texture analysis [(Tuceryan and Jain, 1993)](https://www.worldscientific.com/doi/abs/10.1142/9789814343138_0010). Deep architectures require
 more layers resulting in more parameters to characterize
