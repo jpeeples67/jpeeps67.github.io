@@ -43,6 +43,8 @@ There are several real-world applications for the histogram layer! Statistical t
 
 <br/>
 [![Plants][9]][10]
+<br/> This is an example image of grass from [GTOS-mobile](https://openaccess.thecvf.com/content_cvpr_2018/html/Xue_Deep_Texture_Manifold_CVPR_2018_paper.html). The image contains other textures and not only grass. Local histograms can distinguish portions of the image containing pure grass (top two histograms) or a mixture of other textures (bottom histogram) despite structual similarities. The histograms shown here are the distribution of intensity values from the red, green, and blue channels. Each histogram contains the aggregated intensity values (over the three color channels) in the corresponding image portion.
+
 
 ## Check Out the Code and Paper!
 This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **IEEE Transactions on Artificial Intelligence**! Our [code](https://github.com/GatorSense/Histogram_Layer) and [paper](https://arxiv.org/abs/2001.00215) are available! 
@@ -79,8 +81,8 @@ doi={10.1109/TAI.2021.3135804}}
 [6]: https://ieeexplore.ieee.org/document/9652037
 [7]: /images/logo_50.png
 [8]: https://faculty.eng.ufl.edu/machine-learning
-[9]: /images/Disease_detection.jpg
-[10]:https://www.letsnurture.com/blog/using-deep-learning-for-image-based-plant-disease-detection.html
+[9]: /images/HistTextures_2.PNG
+[10]: https://arxiv.org/pdf/2001.00215.pdf
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
 [![Github Repository](/images/code.png"Code")](https://github.com/GatorSense/Histogram_Layer)
