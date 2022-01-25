@@ -19,19 +19,19 @@ Structural texture approaches consist of defining a set of texture examples and 
 <br/>The average operation is a special case of convolution where the all of the weights are equal to 1/number of data points. As a result, the CNN will struggle to capture a linear combination of pixels that learns the statistical information of the data (*i.e.*, cannot easily learn weights to discriminate statistical exemplars). Here is an example where if a 3x3 convolution is used, the model can easily learn weights to tell the cross and checkboard apart. However, if we sample from a different distribution and retain the same shape, a convolution operation cannot learn weights to distinguish this change as the convolution is unable to account for individual pixel intensity changes.
 ![CNN_Failure](/images/CNN_Failure_v2.jpg) 
 
-<br/>In summary, CNNs fail to characterize the spatial distribution of features and require more layers to capture the distributions of values in a region. 
+<br/>In summary, CNNs are great at structural texture changes. However, for statistical textures, CNNs fail to characterize the spatial distribution of features and require more layers to capture the distributions of values in a region. 
 
 ## Method: Histogram Layer
 ### Standard Histogram Operation
 The proposed solution is a **local** histogram layer. Instead of computing global histograms as done previously, the proposed histogram layer directly computes the local, spatial distribution of features for texture analysis, and parameters for the layer are estimated during backpropagation. Histograms perform a counting operation for values that fall within a certain range. Below is an example where we are counting the number of 1s, 2s, and 3s in local windows of the image:
-![Local_Hist](/images/Stand_Hist.gif)
+<br/>![Local_Hist](/images/Stand_Hist.gif)
 
 ### Radial Basis Function Alternative 
-<br/> The standard histogram operation is not differentiable and is brittle (*i.e.*, sensitive to parameter selection). However, a smooth approximation (*i.e.*, radial basis function or RBF) can be used. RBFs have a maximum value of 1 when the feature value is equal to the bin center and the minimum value approaches 0 as the feature value moves further from the bin center. Also, RBFs are more robust to small changes in bin centers and widths than the standard histogram operation because there is some allowance of error due to the soft binning assignments and the smoothness of the RBF. The means of the RBFs (&mu<sub>bk</sub>) serve as the location of each bin (*i.e.*, bin centers), while the bandwidth (&gamma<sub>bk</sub>) controls the spread of each bin (*i.e.*, bin widths), where *b* is the number of histogram bins and *k* is the feature channel in the input feature tensor. The normalized frequency count, *Y*<sub>rcbk</sub>, is computed with a sliding window of size *S*x*T*, and the binning operation for a histogram value in the *k*<sup>th</sup> channel of the input **X** is defined as:
-![Local_RBF](/images/RBF_annotated.png)
+<br/> The standard histogram operation is not differentiable and is brittle (*i.e.*, sensitive to parameter selection). However, a smooth approximation (*i.e.*, radial basis function or RBF) can be used. RBFs have a maximum value of 1 when the feature value is equal to the bin center and the minimum value approaches 0 as the feature value moves further from the bin center. Also, RBFs are more robust to small changes in bin centers and widths than the standard histogram operation because there is some allowance of error due to the soft binning assignments and the smoothness of the RBF. The means of the RBFs (&mu;<sub>bk</sub>) serve as the location of each bin (*i.e.*, bin centers), while the bandwidth (&gamma;<sub>bk</sub>) controls the spread of each bin (*i.e.*, bin widths), where *b* is the number of histogram bins and *k* is the feature channel in the input feature tensor. The normalized frequency count, *Y*<sub>rcbk</sub>, is computed with a sliding window of size *S*x*T*, and the binning operation for a histogram value in the *k*<sup>th</sup> channel of the input **X** is defined as:
+<br/>![RBF_equation](/images/RBF_annotated.png)
 
 We show an example of the local operation of the RBF with a 3x3 window (*S*,*T* = 3), 1 input channel (*K* = 1), and three bins (*b* = 3) below:
-![Local_RBF](/images/RBF_Hist.gif)
+<br/>![Local_RBF](/images/RBF_Hist.gif)
 
 ## Implementation of Histogram Layer
 <br/> Another advantage of the proposed method is that the histogram layer is easily implemented using pre-exisiting layers! Any deep learning framework (*e.g.*, Pytorch, TensorFlow) can be used to integerate the histogram layer into deep learning models.
