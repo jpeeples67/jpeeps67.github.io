@@ -2,7 +2,7 @@
 permalink: /aboutme/
 title: "About Me"
 
-excerpt: "Joshua Peeples is a Machine Learning PhD student at the University of Florida."
+excerpt: "Joshua Peeples is a Machine Learning PhD candidate at the University of Florida."
 layout: single
 author_profile: true
 sitemap: true
