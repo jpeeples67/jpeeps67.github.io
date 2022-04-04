@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-03-08
+modified: 2022-04-04
 ---  
 
 
@@ -21,12 +21,12 @@ modified: 2022-03-08
 1. J. Peeples, D. Suen, A. Zare, J. Keller, 2018. "Possibilistic Fuzzy Local Information C-means with Automated Feature selection for Seafloor Segmentation," in Proc. SPIE 10628, Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XXIII. ([pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10628/2305178/Possibilistic-fuzzy-local-information-C-means-with-automated-feature-selection/10.1117/12.2305178.short))
 
 ### Journal Papers
-3. **J. Peeples**, S. Walker, C. McCurley, A. Zare, J. Keller, W. Xu, 2022. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification" in IEEE Geoscience and Remote Sensing Letters, In Press. ([pdf](https://ieeexplore.ieee.org/document/9726172))
+4. **J. Peeples**, J. Jameson, N. Kotta, J. Grasman, W. Stoppel, A. Zare, 2022. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation," in BME Frontiers Special Issue: AI for Advanced Biomedical Applications, In Press. ([pdf](https://www.biorxiv.org/content/10.1101/2021.11.22.469463))
+3. **J. Peeples**, S. Walker, C. McCurley, A. Zare, J. Keller, W. Xu, 2022. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification," in IEEE Geoscience and Remote Sensing Letters, In Press. ([pdf](https://ieeexplore.ieee.org/document/9726172))
 2.  R. Gloaguen, Z. Brym, **J. Peeples**, W. Xu, C. Hyen-Chung, D. Rowland, 2022. "The Plasticity of Early Root Development in Sesamum indicum L. as Influenced by Genotype and Water Availability," in Rhizosphere. ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S2452219821001531?via\%3Dihub))
-1. **J. Peeples**, W. Xu, A. Zare. 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://ieeexplore.ieee.org/document/9652037))
+1. **J. Peeples**, W. Xu, A. Zare, 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://ieeexplore.ieee.org/document/9652037))
 
 ### In Review
-2. **J. Peeples**, J. Jameson, N. Kotta, J. Grasman, W. Stoppel, A. Zare, 2021. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation."([pdf](https://www.biorxiv.org/content/10.1101/2021.11.22.469463))
 1. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2021. "Spatial and Texture Analysis of Root System Architecture with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
 
 
