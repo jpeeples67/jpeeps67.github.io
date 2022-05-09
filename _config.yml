@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Joshua Peeples" #<i class="fas fa-home"></i> 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joshua Peeples"
-description              : "PhD Candidate at the University of Florida
+name                     : "Joshua Peeples, Ph.D."
+description              : "Postdoctoral Researcher at the University of Florida
                             in the Department of Electrical and Computer Engineering."
 url                      : "https://www.joshpeeples.com" #"https://jpeeps67.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua (Josh) Peeples"
+  name             : "Joshua (Josh) Peeples, Ph.D."
   avatar           : "/images/JPbio2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NSF and Mcknight Doctoral Fellow at the University of Florida
+  bio              : "Postdoctoral Researcher at the University of Florida
                       in the Department of Electrical and Computer Engineering."
   location         : "Gainesville, FL"
   #email            : "jpeeples@ufl.edu"
