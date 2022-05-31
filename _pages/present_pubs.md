@@ -6,7 +6,8 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-04-04
+modified: 2022-05-31
+toc: true
 ---  
 
 
