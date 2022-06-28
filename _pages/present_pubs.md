@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-05-31
+modified: 2022-06-28
 toc: true
 ---  
 
@@ -23,7 +23,7 @@ toc: true
 {: reversed="reversed"}
 
 ### Journal Papers
-4. **J. Peeples**, J. Jameson, N. Kotta, J. Grasman, W. Stoppel, A. Zare, 2022. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation," in BME Frontiers Special Issue: AI for Advanced Biomedical Applications, In Press. ([pdf](https://www.biorxiv.org/content/10.1101/2021.11.22.469463))
+4. **J. Peeples**, J. Jameson, N. Kotta, J. Grasman, W. Stoppel, A. Zare, 2022. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation," in BME Frontiers Special Issue: AI for Advanced Biomedical Applications, vol. 2022, doi: 10.34133/2022/9854084. ([pdf](https://spj.sciencemag.org/journals/bmef/2022/9854084/))
 3. **J. Peeples**, S. Walker, C. McCurley, A. Zare, J. Keller, W. Xu, 2022. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification," in IEEE Geoscience and Remote Sensing Letters. ([pdf](https://ieeexplore.ieee.org/document/9726172))
 2.  R. Gloaguen, Z. Brym, **J. Peeples**, W. Xu, C. Hyen-Chung, D. Rowland, 2022. "The Plasticity of Early Root Development in Sesamum indicum L. as Influenced by Genotype and Water Availability," in Rhizosphere. ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S2452219821001531?via\%3Dihub))
 1. **J. Peeples**, W. Xu, A. Zare, 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://ieeexplore.ieee.org/document/9652037))
