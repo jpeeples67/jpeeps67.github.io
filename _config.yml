@@ -20,7 +20,7 @@ title                    : "Joshua Peeples" #<i class="fas fa-home"></i>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joshua Peeples, Ph.D."
-description              : "Incoming Visiting Assistant Professor and ACES Fellow at the Texas A&M University
+description              : "ACES Fellow and Incoming Assistant Professor at the Texas A&M University
                             in the Department of Electrical and Computer Engineering."
 url                      : "https://www.joshpeeples.com" #"https://jpeeps67.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
