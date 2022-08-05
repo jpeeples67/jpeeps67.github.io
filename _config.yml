@@ -112,7 +112,7 @@ author:
   avatar           : "/images/JPbio2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ACES Faculty Fellow and Incoming Assistant Professor at Texas A&M University
                       in the Department of Electrical and Computer Engineering."
-  location         : "Gainesville, FL"
+  location         : "College Station, TX"
   #email            : "jpeeples@ufl.edu"
   links:
     - label: "Email"
