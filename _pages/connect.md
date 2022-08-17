@@ -6,20 +6,20 @@ excerpt: "Connect with Joshua Peeples"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2020-08-25
+modified: 2022-08-17
 ---  
 
 Let's connect! Below is my contact information:
 
 ## Contact
 Joshua Peeples<br/>
-Herbert Wertheim College of Engineering<br/>
+Texas A&M University College of Engineering<br/>
 Department of Electrical and Computer Engineering<br/>
-413 New Engineering Building<br/>
+318D Wisenbaker Engineering Building<br/>
 PO Box 116130<br/>
-Gainesville, FL 32611<br/>
+College Station, TX, 77845<br/>
 
-Email: [jpeeples@ufl.edu](mailto:jpeeples@ufl.edu)
+Email: [jpeeples@tamu.edu](mailto:jpeeples@tamu.edu)
 
 
 

@@ -113,11 +113,11 @@ author:
   bio              : "ACES Faculty Fellow and Incoming Assistant Professor at Texas A&M University
                       in the Department of Electrical and Computer Engineering."
   location         : "College Station, TX"
-  #email            : "jpeeples@ufl.edu"
+  #email            : "jpeeples@tamu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jpeeples@ufl.edu
+      url: mailto:jpeeples@tamu.edu
     - label: "Google Scholar"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://scholar.google.com/citations?hl=en&user=uORqQLQAAAAJ"
