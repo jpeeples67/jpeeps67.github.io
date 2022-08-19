@@ -6,20 +6,23 @@ excerpt: "Joshua Peeples Research Projects"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2021-12-30
+modified: 2022-08-19
 ---
 ## Research Interests
  Machine Learning, Deep Learning, Pattern Recognition, Computational Intelligence, Computer Vision, Image Processing
+
 ## Summary
-I conduct research in the Machine Learning and Sensing Lab on seafloor segmentation using deep learning methodologies for the Office of Naval Research (ONR). During my PhD studies, I plan to develop and refine novel deep learning methods for texture characterization, segmentation and classification. These methods could then be applied toward automated image understanding, object detection and classification. Our goal on the application of these methods to sonar data is to develop an environmentally aware automatic target recognition system. The first step towards this goal is to segment the synthetic aperture sonar (SAS) images into different environments (seagrass, sand ripple, etc.) using the novel texture characterization approaches and then, develop target detectors that are optimized for each environment. My research can be applied to numerous difficult real-world applications affecting human life such as self-driving cars, autonomous robotics, augmented reality, automated medical diagnosis, and explosive hazard detection for the military.  
+ During my Ph.D. studies, I developed and refined novel deep learning methods for texture characterization, segmentation, and classification. My current research seeks to extend my dissertation work and explore new aspects such as developing algorithms for explainable AI and various real-world applications in other domains (e.g., biomedical, agriculture). These methods can then be applied toward automated image understanding, object detection, and classification.
 
 ## Current Research Projects
 
 ### Deep Learning for Texture Analysis
 
-### Seafloor Segmentation for Office of Naval Research (ONR)
+### Neural Handcrafted Features
 
 ## Past Research Projects
+
+### Seafloor Segmentation for Office of Naval Research (ONR)
 
 ### Histological Image Segmentation
 
