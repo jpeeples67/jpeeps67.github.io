@@ -35,7 +35,7 @@ toc: true
 
 
 ## Oral Presentations
-9. **J. Peeples**, C. McCurley, S. Walker, D. Stewart, and A. Zare, 2022. Learnable Adaptive Cosine Estimator (LACE) for Image Classification, in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}, Waikoloa, HI, Virtual. ([video](https://www.youtube.com/watch?v=ncdSDylkz-4))
+9. **J. Peeples**, C. McCurley, S. Walker, D. Stewart, and A. Zare, 2022. Learnable Adaptive Cosine Estimator (LACE) for Image Classification, in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, Virtual. ([video](https://www.youtube.com/watch?v=ncdSDylkz-4))
 8. D. Prioleau, A. Alikhademi, A. Roberts, **J. Peeples**, A. Zare, J.E. Gilbert, 2021. Use of Divisive Clustering for Reducing Bias in Training Data. International Conference on Machine Learning and Data Mining in Pattern Recognition, New York City, New York, Virtual.
 7. S. Walker, **J. Peeples**, J. Dale, A. Zare, J. Keller, 2021. Explainable Systematic Analysis for Synthetic Aperture Sonar Imagery. IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, Virtual.
 6. **J. Peeples**, J. Jameson, N. Kotta, W. Stoppel, A. Zare, 2021. Jointly Optimized Spatial Histogram U-NET Architecture (JOSHUA) for Adipose Tissue Identification in Histological Images of Lyophilized Silk Sponge Implants. University of Florida Biomaterials Day, Gainesville, FL.
