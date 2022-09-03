@@ -6,10 +6,10 @@ excerpt: "Joshua Peeples Research Projects"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-08-19
+modified: 2022-09-03
 ---
 ## Research Interests
- Machine Learning, Deep Learning, Pattern Recognition, Computational Intelligence, Computer Vision, Image Processing
+ Machine Learning, Deep Learning, Texture Analysis, Pattern Recognition, Computer Vision, Image Processing
 
 ## Summary
  During my Ph.D. studies, I developed and refined novel deep learning methods for texture characterization, segmentation, and classification. My current research seeks to extend my dissertation work and explore new aspects such as developing algorithms for explainable AI and various real-world applications in other domains (e.g., biomedical, agriculture). These methods can then be applied toward automated image understanding, object detection, and classification.
@@ -22,7 +22,7 @@ modified: 2022-08-19
 
 ## Past Research Projects
 
-### Seafloor Segmentation for Office of Naval Research (ONR)
+### Seafloor Segmentation for Office of Naval Research
 
 ### Histological Image Segmentation
 
