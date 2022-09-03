@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Histogram Layers for Texture Analysis"
-date: 2022-01-25
+date: 2022-09-03
 tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
@@ -53,21 +53,19 @@ This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **
 
 ### Plain Text:
 
-J. Peeples and W. Xu and A. Zare, "Histogram Layers for Texture Analysis," 
-in IEEE Transactions on Artificial Intelligence, DOI 10.1109/TAI.2021.3135804, 2021.
+J. Peeples, W. Xu and A. Zare, "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence, vol. 3, no. 4, pp. 541-552, Aug. 2022, doi: 10.1109/TAI.2021.3135804.
 
 ### BibTex:
 
-@Article{Peeples2021Histogram,<br>
+@Article{Peeples2022Histogram,<br>
 Title = {Histogram Layers for Texture Analysis},<br>
 Author = {Peeples, Joshua and Xu, Weihuang  and Zare, Alina},<br>
 Journal = {IEEE Transactions on Artificial Intelligence},<br>
-Volume = {},<br>
-Year = {2021},<br>
-number={}<br>
-pages={1-1}<br>
+Volume = {3},<br>
+Year = {2022},<br>
+number={4}<br>
+pages={541-552}<br>
 doi={10.1109/TAI.2021.3135804}}
-
 
 ## Links
 <!-- [![alt text](image link)](web link) -->
