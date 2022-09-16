@@ -14,7 +14,7 @@ toc: true
 ## Publications
 
 ### Conference Papers
-7. **J. Peeples**, A. Zare, J. Dale, and J. Keller, 2022. ``Histogram Layers for Synthetic Aperture Sonar Imagery," in IEEE International Conference on Machine Learning and Applications (ICMLA), in Press.
+7. **J. Peeples**, A. Zare, J. Dale, and J. Keller, 2022. "Histogram Layers for Synthetic Aperture Sonar Imagery," in IEEE International Conference on Machine Learning and Applications (ICMLA), in Press. ([pdf](https://arxiv.org/abs/2209.03878))
 6. **J. Peeples**, C. McCurley, S. Walker, D. Stewart, A. Zare, 2022. "Learnable Adaptive Cosine Estimator (LACE) for Image Classification," in IEEE/CVF Winter Conference on Applications of Computer Vision. ([pdf](https://openaccess.thecvf.com/content/WACV2022/html/Peeples_Learnable_Adaptive_Cosine_Estimator_LACE_for_Image_Classification_WACV_2022_paper.html))
 5. D. Prioleau, A. Alikhademi, A. Roberts, **J. Peeples**, A. Zare, J.E. Gilbert, 2021. "Use of Divisive Clustering for Reducing Bias in Training Data," in  International Conference on Machine Learning and Data Mining in Pattern Recognition. ([pdf](https://tinyurl.com/3wup7mw9))
 4. S. Walker, **J. Peeples**, J. Dale, A. Zare, J. Keller, 2021. "Explainable Systematic Analysis for Synthetic Aperture Sonar Imagery," in IEEE International Geoscience and Remote Sensing Symposium. ([pdf](https://ieeexplore.ieee.org/document/9554901))
