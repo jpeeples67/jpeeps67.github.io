@@ -12,11 +12,12 @@ modified: 2022-09-03
  Machine Learning, Deep Learning, Texture Analysis, Pattern Recognition, Computer Vision, Image Processing
 
 ## Summary
- During my Ph.D. studies, I developed and refined novel deep learning methods for texture characterization, segmentation, and classification. My current research seeks to extend my dissertation work and explore new aspects such as developing algorithms for explainable AI and various real-world applications in other domains (e.g., biomedical, agriculture). These methods can then be applied toward automated image understanding, object detection, and classification.
+ Dr. Peeples has developed and refined novel deep learning methods for texture characterization, segmentation, and classification of images. His current research seeks to extend this work (e.g., other data modalities, multi-scale analysis) and explore new aspects such as developing algorithms for explainable artificial intelligence and various real-world applications in several domains (e.g., biomedical, agriculture). These methods can then be applied toward automated image understanding, object detection, and classification. 
 
 ## Current Research Projects
 
-### Deep Learning for Texture Analysis
+### Histogram Layers for Improved Target Classification
+*Now Hiring* 1 graduate student and 1 undegraduate student. Learn more [here](/documents/Histogram_Layers_for_Improved_Target_Classification.pdf).
 
 ### Neural Handcrafted Features
 
