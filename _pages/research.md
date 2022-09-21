@@ -17,7 +17,7 @@ modified: 2022-09-03
 ## Current Research Projects
 
 ### Histogram Layers for Improved Target Classification
-*Now Hiring* 1 graduate student and 1 undegraduate student. Learn more [here](/documents/Histogram_Layers_for_Improved_Target_Classification.pdf).
+**Now Hiring**: 1 graduate student and 1 undegraduate student. Learn more [here](/documents/Histogram_Layers_for_Improved_Target_Classification.pdf).
 
 ### Neural Handcrafted Features
 
