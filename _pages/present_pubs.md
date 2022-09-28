@@ -31,7 +31,7 @@ toc: true
 {: reversed="reversed"}
 
 ### In Review
-1. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2021. "Spatial and Texture Analysis of Root System Architecture with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
+1. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2021. "Spatial and Texture Analysis of Root System Distribution with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
 {: reversed="reversed"}
 
 

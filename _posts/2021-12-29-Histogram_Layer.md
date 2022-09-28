@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "Histogram Layers for Texture Analysis"
-date: 2022-09-03
+date: 2022-09-28
 tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
 ## Problem Statement: Shortcomings of Convolutional Neural Networks
 Convolutional neural networks (CNNs) have shown tremendous ability for a variety of applications.  One reason for the success of CNNs are that they excel at representing and detecting **structural textures**. However, they are **not** as effective at **statistical textures**. To illustrate this point, below is an example of different structural and statistical textures:
-![Texture](/images/Textures_v2.jpg)
+[![Texture][11]][12]
 <br/>We can visually see the distinct differences between the different texture combinations. The structural textures are a checkboard, cross, and stripe. The statistical textures are shown through foreground pixels values sampled from multinomial, binomial, and constant distributions. A CNN could easily distinguish the structural textures, but would struggle with the statistical textures. 
 
 ### Why would a CNN struggle with statistical textures?
@@ -81,6 +81,8 @@ doi={10.1109/TAI.2021.3135804}}
 [8]: https://faculty.eng.ufl.edu/machine-learning
 [9]: /images/HistTextures_2.PNG
 [10]: https://arxiv.org/pdf/2001.00215.pdf
+[11]: /images/Textures_v2.jpg
+[12]: https://arxiv.org/pdf/2209.03878.pdf
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
 [![Github Repository](/images/code.png"Code")](https://github.com/GatorSense/Histogram_Layer)
