@@ -2,14 +2,14 @@
 permalink: /aboutme/
 title: "About Me"
 
-excerpt: "Joshua Peeples is ACES Fellow and Incoming Assistant Professor at Texas A&M University."
+excerpt: "Joshua Peeples is ACES Faculty Fellow and Incoming Assistant Professor at Texas A&M University."
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-08-26
+modified: 2023-02-13
 toc: False
 ---
-Hi! My name is Joshua Peeples (feel free to call me Josh). I am from Alabaster, Alabama and I received my B.S. in Electrical Engineering with a minor in Mathematics from the University of Alabama at Birmingham (UAB). After my graduation from UAB, I decided to pursue a [Ph.D. in Machine Learning](https://faculty.eng.ufl.edu/machine-learning/2017/03/welcome-new-phd-student-joshua-peeples/) at the
+Hi! My name is Joshua Peeples (feel free to call me Josh). I received my B.S. in Electrical Engineering with a minor in Mathematics from the University of Alabama at Birmingham (UAB). After my graduation from UAB, I decided to pursue a [Ph.D. in Machine Learning](https://faculty.eng.ufl.edu/machine-learning/2017/03/welcome-new-phd-student-joshua-peeples/) at the
 University of Florida (UF) in the Department of Electrical and Computer Engineering (ECE). I worked with
 [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/people/faculty/) in the
 [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/) to research and develop novel algorithms for a variety of applications.<br/>
