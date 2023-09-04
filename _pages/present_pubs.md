@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2022-09-03
+modified: 2023-09-04
 toc: true
 ---  
 
@@ -14,6 +14,8 @@ toc: true
 ## Publications
 
 ### Conference Papers
+9. J. Ritu, E. Barnes, R. Martell, A. V. Dine, and **J. Peeples**, 2023. "Histogram Layer Time Delay Neural Network For Passive Sonar Classification," in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), in Press. ([pdf](https://arxiv.org/abs/2307.13788)) 
+8. A. Mohan and **J. Peeples**, 2023. "Quantitative Analysis of Primary Attribution Explainable Artificial Intelligence Methods for Remote Sensing Image Classification," in IEEE International Geoscience and Remote Sensing Symposium. ([pdf](https://arxiv.org/abs/2306.04037)) 
 7. **J. Peeples**, A. Zare, J. Dale, and J. Keller, 2022. "Histogram Layers for Synthetic Aperture Sonar Imagery," in IEEE International Conference on Machine Learning and Applications (ICMLA), in Press. ([pdf](https://arxiv.org/abs/2209.03878))
 6. **J. Peeples**, C. McCurley, S. Walker, D. Stewart, A. Zare, 2022. "Learnable Adaptive Cosine Estimator (LACE) for Image Classification," in IEEE/CVF Winter Conference on Applications of Computer Vision. ([pdf](https://openaccess.thecvf.com/content/WACV2022/html/Peeples_Learnable_Adaptive_Cosine_Estimator_LACE_for_Image_Classification_WACV_2022_paper.html))
 5. D. Prioleau, A. Alikhademi, A. Roberts, **J. Peeples**, A. Zare, J.E. Gilbert, 2021. "Use of Divisive Clustering for Reducing Bias in Training Data," in  International Conference on Machine Learning and Data Mining in Pattern Recognition. ([pdf](https://tinyurl.com/3wup7mw9))
@@ -24,15 +26,17 @@ toc: true
 {: reversed="reversed"}
 
 ### Journal Papers
+5. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2023. "Spatial and Texture Analysis of Root System Distribution with Earth Mover's Distance (STARSEED)," in Plant Methods 19. ([pdf](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00974-z))
 4. **J. Peeples**, J. Jameson, N. Kotta, J. Grasman, W. Stoppel, A. Zare, 2022. "Jointly Optimized Spatial Histogram UNET Architecture (JOSHUA) for Adipose Tissue Segmentation," in BME Frontiers Special Issue: AI for Advanced Biomedical Applications, vol. 2022, doi: 10.34133/2022/9854084. ([pdf](https://spj.sciencemag.org/journals/bmef/2022/9854084/))
 3. **J. Peeples**, S. Walker, C. McCurley, A. Zare, J. Keller, W. Xu, 2022. "Divergence Regulated Encoder Network for Joint Dimensionality Reduction and Classification," in IEEE Geoscience and Remote Sensing Letters. ([pdf](https://ieeexplore.ieee.org/document/9726172))
 2.  R. Gloaguen, Z. Brym, **J. Peeples**, W. Xu, C. Hyen-Chung, D. Rowland, 2022. "The Plasticity of Early Root Development in Sesamum indicum L. as Influenced by Genotype and Water Availability," in Rhizosphere. ([pdf](https://www.sciencedirect.com/science/article/abs/pii/S2452219821001531?via\%3Dihub))
 1. **J. Peeples**, W. Xu, A. Zare, 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://ieeexplore.ieee.org/document/9652037))
 {: reversed="reversed"}
 
-### In Review
+<!--### In Review
 1. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2021. "Spatial and Texture Analysis of Root System Distribution with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
 {: reversed="reversed"}
+-->
 
 
 ## Oral Presentations
