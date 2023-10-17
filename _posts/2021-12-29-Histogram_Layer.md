@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Histogram Layers for Texture Analysis"
-date: 2022-09-28
+date: 2023-10-17
 tags: [deep learning, histograms, image classification, texture analysis]
 ---
 
@@ -45,6 +45,12 @@ There are several real-world applications for the histogram layer! Statistical t
 [![Plants][9]][10]
 <br/> This is an example image of grass from [GTOS-mobile](https://openaccess.thecvf.com/content_cvpr_2018/html/Xue_Deep_Texture_Manifold_CVPR_2018_paper.html). The image contains other textures and not only grass. Local histograms can distinguish portions of the image containing pure grass (top two histograms) or a mixture of other textures (bottom histogram) despite structual similarities. The histograms shown here are the distribution of intensity values from the red, green, and blue channels. Each histogram contains the aggregated intensity values (over the three color channels) in the corresponding image portion.
 
+## Statistical and Structural Textures for Synthetic Aperture Sonar Imagery
+Synthetic aperture sonar (SAS) imagery is crucial for several applications, including target recognition and environmental segmentation. Deep learning models have led to much success in SAS analysis; however, the features extracted by these approaches may not be suitable for capturing certain textural information. To address this problem, we presented a novel application of histogram layers on SAS imagery [(Peeples, et. al., 2022)](https://ieeexplore.ieee.org/document/10069737). The addition of histogram layer(s) within the deep learning models improved performance by incorporating statistical texture information on both synthetic and real-world datasets. We show an example below using the Pseudo Image SAS (PISAS) dataset.
+
+<br/>
+[![SAS Imagery][13]][14]
+<br/> t-SNE projections for the convolutional and histogram layer models on the PISAS dataset. The overall test classification accuracy is shown in parenthesis. Example images from each class are shown. The structural classes are sand ripple ("T1") and rocky ("T10"). The frames around each image represent the statistical class of the PISAS dataset. Red, green, and blue frames represent the multinomial, constant, and binomial distributions respectively. The CNN model appears to map structural textures near one another in the projected space (*i.e.*, sand ripple images are grouped to the left region of the projection and the rocky textures are grouped in the right of the projection). On the other hand, the histogram layer model maps statistical textures close to one another. The binomial statistical textures (blue frames) are grouped in the left of the projection. The multinomial (red frames) and constant (green frames) statistical textures are clustered in the center and right of the projection respectively.
 
 ## Check Out the Code and Paper!
 This [work](https://ieeexplore.ieee.org/document/9652037) was accepted to the **IEEE Transactions on Artificial Intelligence**! Our [code](https://github.com/GatorSense/Histogram_Layer) and [paper](https://arxiv.org/abs/2001.00215) are available! 
@@ -83,6 +89,8 @@ doi={10.1109/TAI.2021.3135804}}
 [10]: https://arxiv.org/pdf/2001.00215.pdf
 [11]: /images/Textures_v2.jpg
 [12]: https://arxiv.org/pdf/2209.03878.pdf
+[13]: /images/SAS_Results.PNG
+[14]: https://arxiv.org/pdf/2001.00215.pdf
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
 [![Github Repository](/images/code.png"Code")](https://github.com/GatorSense/Histogram_Layer)
