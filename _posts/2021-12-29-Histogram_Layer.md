@@ -90,7 +90,7 @@ doi={10.1109/TAI.2021.3135804}}
 [11]: /images/Textures_v2.jpg
 [12]: https://arxiv.org/pdf/2209.03878.pdf
 [13]: /images/SAS_Results.PNG
-[14]: https://arxiv.org/pdf/2001.00215.pdf
+[14]: https://arxiv.org/abs/2209.03878
 
 <!-- [![ArXiv Paper](/images/arxiv.jpg"ArXiv Paper")](https://arxiv.org/abs/2001.00215)
 [![Github Repository](/images/code.png"Code")](https://github.com/GatorSense/Histogram_Layer)
