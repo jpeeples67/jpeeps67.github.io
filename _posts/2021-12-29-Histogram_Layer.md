@@ -45,7 +45,7 @@ There are several real-world applications for the histogram layer! Statistical t
 [![Plants][9]][10]
 <br/> This is an example image of grass from [GTOS-mobile](https://openaccess.thecvf.com/content_cvpr_2018/html/Xue_Deep_Texture_Manifold_CVPR_2018_paper.html). The image contains other textures and not only grass. Local histograms can distinguish portions of the image containing pure grass (top two histograms) or a mixture of other textures (bottom histogram) despite structual similarities. The histograms shown here are the distribution of intensity values from the red, green, and blue channels. Each histogram contains the aggregated intensity values (over the three color channels) in the corresponding image portion.
 
-## Statistical and Structural Textures for Synthetic Aperture Sonar Imagery
+## Histogram Layers for Synthetic Aperture Sonar Imagery
 Synthetic aperture sonar (SAS) imagery is crucial for several applications, including target recognition and environmental segmentation. Deep learning models have led to much success in SAS analysis; however, the features extracted by these approaches may not be suitable for capturing certain textural information. To address this problem, we presented a novel application of histogram layers on SAS imagery [(Peeples, et. al., 2022)](https://ieeexplore.ieee.org/document/10069737). The addition of histogram layer(s) within the deep learning models improved performance by incorporating statistical texture information on both synthetic and real-world datasets. We show an example below using the Pseudo Image SAS (PISAS) dataset.
 
 <br/>
