@@ -6,7 +6,7 @@ excerpt: "Joshua Peeples Publications and Presentations"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2023-09-04
+modified: 2024-09-20
 toc: true
 ---  
 
@@ -14,9 +14,12 @@ toc: true
 ## Publications
 
 ### Conference Papers
-9. J. Ritu, E. Barnes, R. Martell, A. V. Dine, and **J. Peeples**, 2023. "Histogram Layer Time Delay Neural Network For Passive Sonar Classification," in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), in Press. ([pdf](https://arxiv.org/abs/2307.13788)) 
+12. Y. Zambre,  E. Rajkitkul,  A. Mohan and, **J. Peeples**, 2024. "Spatial Transformer Network YOLO Model for Agricultural Object Detection," in IEEE International Conference on Machine Learning and Applications (ICMLA), Miami, FL, in Press. doi: arXiv:2407.21652. ([pdf](https://arxiv.org/abs/2407.21652))
+11. A. Mohan and J. Peeples, 2024. "Lacunarity Pooling Layers for Plant Image Classification using Texture Analysis," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 5384-5392, doi: arXiv:2404.16268. ([pdf](https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/html/Mohan_Lacunarity_Pooling_Layers_for_Plant_Image_Classification_using_Texture_Analysis_CVPRW_2024_paper.html))
+10. F. Safdarian, **J. Peeples**, D. Richards, and T. Overbye, 2024. “A Fast Learning-Based Unit Commitment Strategy with AC Optimal Power Flow for Large Grids with Direct Inclusion of Weather”, in IEEE Kansas Power and Energy Conference (KPEC). ([pdf](https://overbye.engr.tamu.edu/wp-content/uploads/sites/146/2024/04/KPEC__UC_ML-2.pdf))
+9. J. Ritu, E. Barnes, R. Martell, A. V. Dine, and **J. Peeples**, 2023. "Histogram Layer Time Delay Neural Network For Passive Sonar Classification," in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), doi: 10.1109/WASPAA58266.2023.10248102. ([pdf](https://ieeexplore.ieee.org/abstract/document/10248102)) 
 8. A. Mohan and **J. Peeples**, 2023. "Quantitative Analysis of Primary Attribution Explainable Artificial Intelligence Methods for Remote Sensing Image Classification," in IEEE International Geoscience and Remote Sensing Symposium. ([pdf](https://arxiv.org/abs/2306.04037)) 
-7. **J. Peeples**, A. Zare, J. Dale, and J. Keller, 2022. "Histogram Layers for Synthetic Aperture Sonar Imagery," in IEEE International Conference on Machine Learning and Applications (ICMLA), in Press. ([pdf](https://arxiv.org/abs/2209.03878))
+7. **J. Peeples**, A. Zare, J. Dale, and J. Keller, 2022. "Histogram Layers for Synthetic Aperture Sonar Imagery," in IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, pp. 176-182, doi: 10.1109/ICMLA55696.2022.00032. ([pdf](https://ieeexplore.ieee.org/document/10069737))
 6. **J. Peeples**, C. McCurley, S. Walker, D. Stewart, A. Zare, 2022. "Learnable Adaptive Cosine Estimator (LACE) for Image Classification," in IEEE/CVF Winter Conference on Applications of Computer Vision. ([pdf](https://openaccess.thecvf.com/content/WACV2022/html/Peeples_Learnable_Adaptive_Cosine_Estimator_LACE_for_Image_Classification_WACV_2022_paper.html))
 5. D. Prioleau, A. Alikhademi, A. Roberts, **J. Peeples**, A. Zare, J.E. Gilbert, 2021. "Use of Divisive Clustering for Reducing Bias in Training Data," in  International Conference on Machine Learning and Data Mining in Pattern Recognition. ([pdf](https://tinyurl.com/3wup7mw9))
 4. S. Walker, **J. Peeples**, J. Dale, A. Zare, J. Keller, 2021. "Explainable Systematic Analysis for Synthetic Aperture Sonar Imagery," in IEEE International Geoscience and Remote Sensing Symposium. ([pdf](https://ieeexplore.ieee.org/document/9554901))
@@ -33,10 +36,8 @@ toc: true
 1. **J. Peeples**, W. Xu, A. Zare, 2021. "Histogram Layers for Texture Analysis," in IEEE Transactions on Artificial Intelligence. ([pdf](https://ieeexplore.ieee.org/document/9652037))
 {: reversed="reversed"}
 
-<!--### In Review
-1. **J. Peeples**, W. Xu, R. Gloaguen, D. Rowland, A. Zare, Z. Brym, 2021. "Spatial and Texture Analysis of Root System Distribution with Earth Mover's Distance (STARSEED)."([pdf](https://www.biorxiv.org/content/10.1101/2021.08.31.458446))
-{: reversed="reversed"}
--->
+### In Review
+1. **J. Peeples**, S. Al Kharsa, L. Saleh, and, A. Zare, "Histogram Layers for Neural Engineered Features," doi: arXiv:2403.17176. ([pdf](https://arxiv.org/abs/2403.17176))
 
 
 ## Oral Presentations
@@ -52,6 +53,7 @@ toc: true
 {: reversed="reversed"}
 
 ## Poster Presentations
+5. **J. Peeples**, 2024, "Advanced Vision and Learning Lab: Pioneering a Data-Driven Future," in Texas Academy of Medicine, Engineering, Science & Technology )TAMEST) Protégé Poster Challenge, Austin, TX.
 4. **J. Peeples**, J. Jameson, N. Kotta, W. Stoppel, A. Zare, 2021. Spatial Histogram Layers in Convolutional Neural Network Models for Adipose Segmentation in Histological Silk Implant Images. Biomedical Engineering Society Annual Meeting, Orlando, FL.
 3. **J. Peeples**, 2021. Connecting the Past and Present: Histogram Layers for Texture Analysis, Notre Dame Future Faculty Workshop, South Bend, IL.
 2. **J. Peeples**, B. Driggers, G. Contreras, N. Tracht, S. Chen, M. Bedwell, 2017. Using the Engineering Force: BHAMSolo Senior Design Project. University of Alabama at Birmingham Spring Expo, Birmingham, AL. (Served as Team Lead for the project)
