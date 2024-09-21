@@ -20,7 +20,7 @@ title                    : "Joshua Peeples" #<i class="fas fa-home"></i>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joshua Peeples, Ph.D."
-description              : "ACES Faculty Fellow and Incoming Assistant Professor at Texas A&M University
+description              : "Assistant Professor at Texas A&M University
                             in the Department of Electrical and Computer Engineering."
 url                      : "https://www.joshpeeples.com" #"https://jpeeps67.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -73,7 +73,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : false # true (default), false
+  powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Joshua (Josh) Peeples, Ph.D."
   avatar           : "/images/JPbio2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ACES Faculty Fellow and Incoming Assistant Professor at Texas A&M University
+  bio              : "Assistant Professor at Texas A&M University
                       in the Department of Electrical and Computer Engineering."
   location         : "College Station, TX"
   #email            : "jpeeples@tamu.edu"
